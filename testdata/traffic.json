@@ -1,0 +1,25 @@
+{
+  "merchants": [
+    {"id": "acme-superstore",  "weight": 781},
+    {"id": "northwind-goods",  "weight": 32},
+    {"id": "globex-retail",    "weight": 24},
+    {"id": "initech-supply",   "weight": 19},
+    {"id": "umbrella-mart",    "weight": 14},
+    {"id": "sterling-wares",   "weight": 12},
+    {"id": "wayne-provisions", "weight": 11},
+    {"id": "tyrell-goods",     "weight": 10},
+    {"id": "soylent-market",   "weight": 9},
+    {"id": "hooli-basics",     "weight": 9},
+    {"id": "vehement-supply",  "weight": 8},
+    {"id": "massive-dynamic",  "weight": 8},
+    {"id": "cyberdyne-retail", "weight": 7},
+    {"id": "oscorp-trading",   "weight": 7},
+    {"id": "stark-goods",      "weight": 6},
+    {"id": "gringotts-mart",   "weight": 6},
+    {"id": "duff-wholesale",   "weight": 5},
+    {"id": "krusty-supply",    "weight": 5},
+    {"id": "monarch-goods",    "weight": 4},
+    {"id": "praxis-retail",    "weight": 3}
+  ],
+  "cancel_rate": 0.04
+}
